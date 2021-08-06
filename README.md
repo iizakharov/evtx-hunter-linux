@@ -1,6 +1,6 @@
 # evtx-hunter-linux
 
-[Origin Evtx-hunter](https://github.com/NVISOsecurity/evtx-hunter)
+This is remake [Origin Evtx-hunter](https://github.com/NVISOsecurity/evtx-hunter) for linux
 
 # Requirements
 
