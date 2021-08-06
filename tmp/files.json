@@ -1,0 +1,24 @@
+{
+    "files": [
+        {
+            "original_filename": "/home/savchenkora/Security.evtx",
+            "json_dump_filename": "/home/zaharovii/projects/evtx-hunter/tmp/evtx_dump/ad428706-5fe6-40e8-8e98-7350684d9c66.json",
+            "total_events": 487,
+            "event_channel_counts": {
+                "Security": {
+                    "4648": 51,
+                    "4634": 54,
+                    "4672": 139,
+                    "4624": 169,
+                    "5024": 9,
+                    "5033": 9,
+                    "6281": 20,
+                    "4902": 9,
+                    "4608": 9,
+                    "4647": 9,
+                    "1100": 9
+                }
+            }
+        }
+    ]
+}
